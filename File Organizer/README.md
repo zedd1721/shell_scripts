@@ -1,4 +1,4 @@
-# Project 1: File Organizer
+# File Organizer
 ### Write a script that organizes files in a directory by file type.
 ##### Features:
 - Accept a directory path as input.
